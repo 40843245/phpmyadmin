@@ -1,0 +1,2 @@
+# Normalization
+## Way 1:
