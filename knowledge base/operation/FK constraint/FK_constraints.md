@@ -7,5 +7,7 @@ There are may ways to achieve that. I will talk the way that don't have to type 
 4. Fill in all required fields.
 5. Click "Save" button.
 
-   
+## Figure
+https://github.com/40843245/phpmyadmin/blob/main/knowledge%20base/operation/FK%20constraint/FK_constraint_phpmyadmin.png
+
  
